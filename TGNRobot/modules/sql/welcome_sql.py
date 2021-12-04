@@ -11,154 +11,52 @@ DEFAULT_GOODBYE = "Nice knowing ya!"
 
 DEFAULT_WELCOME_MESSAGES = [
     "{first} is here!",  # Discord welcome messages copied
-    "Ready player {first}",
-    "Genos, {first} is here.",
-    "A wild {first} appeared.",
-    "{first} came in like a Lion!",
-    "{first} has joined your party.",
-    "{first} just joined. Can I get a heal?",
-    "{first} just joined the chat - asdgfhak!",
-    "{first} just joined. Everyone, look busy!",
-    "Welcome, {first}. Stay awhile and listen.",
-    "Welcome, {first}. We were expecting you ( ͡° ͜ʖ ͡°)",
-    "Welcome, {first}. We hope you brought pizza.",
-    "Welcome, {first}. Leave your weapons by the door.",
-    "Swoooosh. {first} just landed.",
-    "Brace yourselves. {first} just joined the chat.",
-    "{first} just joined. Hide your bananas.",
-    "{first} just arrived. Seems OP - please nerf.",
-    "{first} just slid into the chat.",
-    "A {first} has spawned in the chat.",
-    "Big {first} showed up!",
-    "Where’s {first}? In the chat!",
-    "{first} hopped into the chat. Kangaroo!!",
-    "{first} just showed up. Hold my beer.",
-    "Challenger approaching! {first} has appeared!",
-    "It's a bird! It's a plane! Nevermind, it's just {first}.",
-    "It's {first}! Praise the sun! \o/",
-    "Never gonna give {first} up. Never gonna let {first} down.",
-    "Ha! {first} has joined! You activated my trap card!",
-    "Hey! Listen! {first} has joined!",
-    "We've been expecting you {first}",
-    "It's dangerous to go alone, take {first}!",
-    "{first} has joined the chat! It's super effective!",
-    "Cheers, love! {first} is here!",
-    "{first} is here, as the prophecy foretold.",
-    "{first} has arrived. Party's over.",
-    "{first} is here to kick butt and chew bubblegum. And {first} is all out of gum.",
-    "Hello. Is it {first} you're looking for?",
-    "{first} has joined. Stay awhile and listen!",
-    "Roses are red, violets are blue, {first} joined this chat with you",
-    "Welcome {first}, Avoid Punches if you can!",
-    "It's a bird! It's a plane! - Nope, its {first}!",
-    "{first} Joined! - Ok.",  # Discord welcome messages end.
-    "All Hail {first}!",
-    "Hi, {first}. Don't lurk, only Villans do that.",
-    "{first} has joined the battle bus.",
-    "A new Challenger enters!",  # Tekken
-    "Ok!",
-    "{first} just fell into the chat!",
-    "Something just fell from the sky! - oh, its {first}.",
-    "{first} Just teleported into the chat!",
-    "Hi, {first}, show me your Hunter License!",  # Hunter Hunter
-    "I'm looking for Garo, oh wait nvm it's {first}.",  # One Punch man s2
-    "Welcome {first}, leaving is not an option!",
-    "Run Forest! ..I mean...{first}.",
-    "{first} do 100 push-ups, 100 sit-ups, 100 squats, and 10km running EVERY SINGLE DAY!!!",  # One Punch ma
-    "Huh?\nDid someone with a disaster level just join?\nOh wait, it's just {first}.",  # One Punch ma
-    "Hey, {first}, ever heard the King Engine?",  # One Punch ma
-    "Hey, {first}, empty your pockets.",
-    "Hey, {first}!, are you strong?",
-    "Call the Avengers! - {first} just joined the chat.",
-    "{first} joined. You must construct additional pylons.",
-    "Ermagherd. {first} is here.",
-    "Come for the Snail Racing, Stay for the Chimichangas!",
-    "Who needs Google? You're everything we were searching for.",
-    "This place must have free WiFi, cause I'm feeling a connection.",
-    "Speak friend and enter.",
-    "Welcome you are",
-    "Welcome {first}, your princess is in another castle.",
-    "Hi {first}, welcome to the dark side.",
-    "Hola {first}, beware of people with disaster levels",
-    "Hey {first}, we have the droids you are looking for.",
-    "Hi {first}\nThis isn't a strange place, this is my home, it's the people who are strange.",
-    "Oh, hey {first} what's the password?",
-    "Hey {first}, I know what we're gonna do today",
-    "{first} just joined, be at alert they could be a spy.",
-    "{first} joined the group, read by Mark Zuckerberg, CIA and 35 others.",
-    "Welcome {first}, watch out for falling monkeys.",
-    "Everyone stop what you’re doing, We are now in the presence of {first}.",
-    "Hey {first}, do you wanna know how I got these scars?",
-    "Welcome {first}, drop your weapons and proceed to the spy scanner.",
-    "Stay safe {first}, Keep 3 meters social distances between your messages.",  # Corona memes lmao
-    "Hey {first}, Do you know I once One-punched a meteorite?",
-    "You’re here now {first}, Resistance is futile",
-    "{first} just arrived, the force is strong with this one.",
-    "{first} just joined on president’s orders.",
-    "Hi {first}, is the glass half full or half empty?",
-    "Yipee Kayaye {first} arrived.",
-    "Welcome {first}, if you’re a secret agent press 1, otherwise start a conversation",
-    "{first}, I have a feeling we’re not in Kansas anymore.",
-    "They may take our lives, but they’ll never take our {first}.",
-    "Coast is clear! You can come out guys, it’s just {first}.",
-    "Welcome {first}, pay no attention to that guy lurking.",
-    "Welcome {first}, may the force be with you.",
-    "May the {first} be with you.",
-    "{first} just joined. Hey, where's Perry?",
-    "{first} just joined. Oh, there you are, Perry.",
-    "Ladies and gentlemen, I give you ...  {first}.",
-    "Behold my new evil scheme, the {first}-Inator.",
-    "Ah, {first} the Platypus, you're just in time... to be trapped.",
-    "{first} just arrived. Diable Jamble!",  # One Piece Sanji
-    "{first} just arrived. Aschente!",  # No Game No Life
-    "{first} say Aschente to swear by the pledges.",  # No Game No Life
-    "{first} just joined. El Psy congroo!",  # Steins Gate
-    "Irasshaimase {first}!",  # weeabo shit
-    "Hi {first}, what is 1000-7?",  # tokyo ghoul
-    "Come. I don't want to destroy this place",  # hunter x hunter
-    "I... am... Whitebeard!...wait..wrong anime.",  # one Piece
-    "Hey {first}...have you ever heard these words?",  # BNHA
-    "Can't a guy get a little sleep around here?",  # Kamina Falls – Gurren Lagann
-    "It's time someone put you in your place, {first}.",  # Hellsing
-    "Unit-01's reactivated..",  # Neon Genesis: Evangelion
-    "Prepare for trouble...And make it double",  # Pokemon
-    "Hey {first}, are You Challenging Me?",  # Shaggy
-    "Oh? You're Approaching Me?",  # jojo
-    "Ho… mukatta kuruno ka?",  # jojo jap ver
-    "I can't beat the shit out of you without getting closer",  # jojo
-    "Ho ho! Then come as close as you'd like.",  # jojo
-    "Hoho! Dewa juubun chikazukanai youi",  # jojo jap ver
-    "Guess who survived his time in Hell, {first}.",  # jojo
-    "How many loaves of bread have you eaten in your lifetime?",  # jojo
-    "What did you say? Depending on your answer, I may have to kick your ass!",  # jojo
-    "Oh? You're approaching me? Instead of running away, you come right to me? Even though your grandfather, Joseph, told you the secret of The World, like an exam student scrambling to finish the problems on an exam until the last moments before the chime?",  # jojo
-    "Rerorerorerorerorero.",  # jojo
-    "{first} just warped into the group!",
-    "I..it's..it's just {first}.",
-    "Sugoi, Dekai. {first} Joined!",
-    "{first}, do you know gods of death love apples?",  # Death Note owo
-    "I'll take a potato chip.... and eat it",  # Death Note owo
-    "Oshiete oshiete yo sono shikumi wo!",  # Tokyo Ghoul
-    "Kaizoku ou ni...nvm wrong anime.",  # op
-    "{first} just joined! Gear.....second!",  # Op
-    "Omae wa mou....shindeiru",
-    "Hey {first}, the leaf village lotus blooms twice!",  # Naruto stuff begins from here
-    "{first} Joined! Omote renge!",
-    "{first}! I, Madara! declare you the strongest",
-    "{first}, this time I'll lend you my power. ",  # Kyuubi to naruto
-    "{first}, welcome to the hidden leaf village!",  # Naruto thingies end here
-    "In the jungle, you must wait...until the dice read five or eight.",  # Jumanji stuff
-    "Dr.{first} Famed archeologist and international explorer,\nWelcome to Jumanji!\nJumanji's Fate is up to you now.",
-    "{first}, this will not be an easy mission - monkeys slow the expedition.",  # End of Jumanji stuff
-    "Remember, remember, the Fifth of November, the Gunpowder Treason and Plot. I know of no reason why the Gunpowder Treason should ever be forgot.", #V for Vendetta
-    "The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous.", #V for Vendetta
-    "Behind {first} there is more than just flesh. Beneath this user there is an idea... and ideas are bulletproof.", #V for Vendetta
-    "Love your rage, not your cage.", #V for Vendetta
-    "Get your stinking paws off me, you damned dirty ape!", #Planet of the apes
-    "Elementary, my dear {first}.",
-    "I'm back - {first}.",
-    "Bond. {first} Bond.",
-    "Come with me if you want to live",
+   "{first} உங்களுக்காக தான் எல்லாரும் காத்துகிட்டு இருந்தோம்! Welcome 🥳!", #Discord welcome messages copied 
+"நீங்க பெரிய கைதி எல்லாம் பாத்துருப்பிங்க ஆனா இப்ப வரப்போறது Master {first}",
+ "எவ்வளோ பேர் இருக்கிறாங்குறத்து முக்கியம் இல்லை! ,
+ {first} இருக்கான்றதுதான் முக்கியம்!😏.",
+ "வாங்க {first} வந்து மொக்க அறுவையை போடுங்க!😂.",
+ "{first} இரு இதயம் ஒரு இதயம் ஆனதே இரு இதயம் ஒரு இதயம் ஆனதே! அந்த ஒரு இதயம் அந்த ஒரு இதயம் நொருங்கிப்போனதே! 🤣🤣😂😂😂❤️❤️",
+ "{first} IPL லில் அதிக கோப்பையை வென்ற ஒரு தனி நபர் யார்?🏆.",
+ "{first} IPL லில் சிறந்த Captain யார்?🏏",
+ "{first} Love-ன்றது ஆயா சுடுற வடை மாதிரி அந்த வடைய எப்பவேணும்னாலும் காக்க வந்து கவ்விட்டு போகும் ஆனா Friendship-ன்றது அந்த ஆயா மாதிரி அந்த ஆயாவ எவனாலும் தூக்க முடியாது 😍🥰",
+ "{first} நீங்க Join பண்ணத நாங்க பார்த்துட்டோம்!🙈🙊", "ஒரு குழந்தை உருவாக்குறத்துக்கு பத்து மாசம்! ஒரு பட்டதாரி உருவாக்குறத்துக்கு மூனு வருஷம்! ஆனா ஒரு Best Admin உருவாக்குறதுக்கு ஒரு யுகமே தேவைபடுது,
+ {first}. 😂🤧", "{first} Chat முக்கியம் பிகிலு..!🔥",
+ "{first} நீங்க இங்க இருக்கீங்க! உங்க Friends-லாம் எங்க? 🤨",
+ "நீங்க வேணா Group-ல Clash-அ Boss-அ சுத்தலாம் ஆனா, {first}. Mass என்னனு தெரியாதுல!😎.",
+ "{first} தனிமை கொடுமையானது! 🥺 அதனால், எங்களோடு சேர்ந்து கொள்ளுங்கள்!☺️",
+ "{first} தனிமை கொடுமையானது! 🥺 அதனால், எங்களோடு சேர்ந்து கொள்ளுங்கள்!☺️.",
+ "{first} நீங்கள் Join பண்ணா மட்டும் போதாது உங்கள் Friends-யும் Invite பண்ணுங்க!😐",
+ "{first} ❤️ உங்களுக்காக தான் எல்லாரும் காத்துகிட்டு இருந்தோம்! Welcome 🥳.", "{first} நான் உன்ன விரும்பல... உன் மேல ஆசப்படல... நீ அழகா இருக்கேனு நினைக்கல... ஆனா இதெல்லாம் நடந்துடுமோனு பயமா இருக்கு🙈🙈",
+ "என்ன ஞாபகம் இருக்கா மச்சான் {first}.", "நல்லா குற்றாலத்துல இருக்கவேண்டியவன்லாம் இங்க வந்து நம்ம உயிர வாங்குறாங்கே!😒{first}!",
+ "{first} 😈 இது கலவர பூமி ⚔️🗡🔪 ! இங்கு ஏன் வந்தீங்க?😳", "{first} என்னவளே என் மனதில் உள்ள எனது எண்ணத்தை நீ அறிந்தும் அறியாதது போல நடிக்கிறாயா இல்லை தகுந்த சந்தர்ப்பம் அமையட்டும் என எதிர்பார்த்து காத்திருக்கிறாயா பெண்ணே🥳🥰!",
+ "{first} ஒரு பூ மலர பல பருவங்களை கடக்கிறது நீ உன் வாழ்க்கையை உணர பல தடைகளை கடந்து செல்.இனிய காலை வணக்கம்..",
+ "{first} உனக்கு welcome ல பண்ண முடியாது 😏",
+ "{first} உங்கள் ராசி என்ன?👀.", "{first} நீங்கள் அதிக முறை திரைப்படம் எது👀",
+ "{first} சம்பவம் செய்யும் வேலைய எல்லாம் அஞ்சாறு வாரம் ஒத்தி போடு Groupக்கு யாரும் வந்தாலும்கூட வள்ளலார் போல வணக்கம் போடு!😂🙏",
+ "{first} உலக கோப்பை கிரிக்கெட் விளையாட்டில் அதிக முறை கோப்பையை வென்ற அணி எது?🏆",
+ "{first} உங்களை யார் (inspires)தூண்டுகிறார்கள்? நீங்கள் யாரைப் போல இருக்க விரும்புகிறீர்கள்? 🎈",
+ "சம்பவம் செய்யும் வேலைய எல்லாம் அஞ்சாறு வாரம் ஒத்தி போடு Groupக்கு யாரும் வந்தாலும்கூட வள்ளலார் போல வணக்கம் போடு!😂🙏 {first}",
+ "{first}உங்களுக்கு Comedy பண்ண தெரியுமா? 😇", "{first} Long-ல பார்த்தத்தான்டா Comedy-யா இருப்பேன் கிட்டத்துல பார்த்த Terror-ஆ இருப்பேன்டா Terror-ஆ😤",
+ "வாங்க {first} எல்லாரும் Busy நான் உங்களை வரவேற்கிறேன்🙏", "{first} யாருமே இல்லாத Group-ல யாருக்குடா Message பண்ற உன் கடமை உணர்ச்சிக்கு ஒரு அளவே இல்லையாடா🤦‍♀😂",
+ "{first}கலப்படமான நல்லவனா இருக்குறதுக்கு சுத்தமான கெட்டவனா இருந்துட்டு போகலாம்😍", 
+"வாங்க {first} வந்து மொக்க அறுவையை போடுங்க!😂",
+ "🎺 தங்கமே உன்னத்தான் தேடிவந்தேன் நானே வைரமே ஒருநாள் உன்னத் தூக்குவேனே..! 🎺",
+ "{first} எல்லாரும் பணம் இருந்தா நிம்மதியா வாழ்ந்திரலாம்னு நெனைக்குறாங்க ஆனா பணம் இல்லேன்னா நிம்மதியான சாகக்கூட முடியாதுனு யாரும் நெனைக்குறதே இல்லை!🎈",
+ "{first} Oii Selfie எனக்கு எப்போ Ok சொல்லுவ! 😉",
+ "நம்ம ஊருக்கு நாய் புடிக்குற வண்டி வரட்டும் கண்டிப்பா {first}, உன்னை நான் புடிச்சு குடுத்துறேன்!😂",
+ "{first} Chatting Start பண்ண மாட்டான்.பண்ணிட்டான் நிறுத்த மாட்டான்🤪",
+ "{first} அடிவெள்ளாவிவச்சுத் தான் வெளுத்தாய்ங்களா உன்ன வெயிலுக்கு காட்டாம வளர்த்தாய்ங்களா!🙈🥳😍.",
+ #Discord welcome messages end.
+ "{first} எங்களுக்கு ஒரு கதை சொல்லிட்டு அப்பறம் பேசுங்க! 😍",
+ "வந்திருக்கிறது சாதாரண ஆள் இல்ல பயத்துக்கே பயம் காட்டுரவன் 😎 {first}.",
+ "குருநாதா! இதுக்கு மேல தாங்க முடியாது குருநாதா... 🥶🤬.",
+ "🎼இளமை திரும்புதே புரியாத புதிராச்சே இதய துடிப்பிலே பனி காத்தும் சூடாச்சே🎼",
+ #Tekken "Ok!", "{first} தங்களை அதிகம் துன்புறுத்தியது யார் ?",
+ "{first} நீ என் நண்பேன்டா😍",
+ "{first} IPL லில் தங்களுக்கு பிடித்த அணி எது? 🏏",
+ "{first}, நீ ஒரு டுபாக்கூர் 😝",   
+
 ]
 DEFAULT_GOODBYE_MESSAGES = [
     "{first} will be missed.",
