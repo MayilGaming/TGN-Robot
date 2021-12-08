@@ -82,22 +82,22 @@ HHɪ, I Am Mayil
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ MAYIL ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Mayil_The_Group_Manager_Bot?startgroup=true"),
+            text="ADD MAYIL TO YOUR GROUP", url="t.me/Mayil_The_Group_Manager_Bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Commands 💫", url=f"https://t.me/mgbotslists/9"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="Support ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/mgbotslists"),
+        InlineKeyboardButton(text="Updates ☑️", url=f"https://t.me/mgbotslists"),
         InlineKeyboardButton(
-            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/greatpersonxd"
+            text="Mayil Chat", url=f"https://t.me/MG_Support_Group"
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
+        InlineKeyboardButton(text="HELP", callback_data="help_back"),
     ],
 ]
 
